@@ -1,0 +1,3 @@
+[submodule "df-android-library"]
+	path = df-android-library
+	url = https://gitlab.dataflows.co/dataflows/mobile-codebase/df-android-library.git
